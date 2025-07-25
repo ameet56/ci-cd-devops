@@ -1,0 +1,9 @@
+terraform.tfvars
+.terraform.tfstate
+.terraform.tfstate.backup
+.terraform.lock.hcl
+.terraform/
+screenshots.png
+*.tfvars
+test/go.mod
+test/go.sum
