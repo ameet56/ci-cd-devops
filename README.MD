@@ -11,7 +11,7 @@ graph TD
         direction LR
 
         %% Define the VPC and its components
-        subgraph "VPC (e.g., Default VPC in ap-south-1)"
+        subgraph "VPC (Default-VPC)"
             direction TB
             IGW["<img src='https://static.thenounproject.com/png/3432025-200.png' width='40' /> Internet Gateway"];
 
